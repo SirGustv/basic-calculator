@@ -1,0 +1,16 @@
+D:\WorkSpace\basic-calculator\basic-calculator\bin\Debug\net5.0\basic-calculator.exe
+D:\WorkSpace\basic-calculator\basic-calculator\bin\Debug\net5.0\basic-calculator.deps.json
+D:\WorkSpace\basic-calculator\basic-calculator\bin\Debug\net5.0\basic-calculator.runtimeconfig.json
+D:\WorkSpace\basic-calculator\basic-calculator\bin\Debug\net5.0\basic-calculator.runtimeconfig.dev.json
+D:\WorkSpace\basic-calculator\basic-calculator\bin\Debug\net5.0\basic-calculator.dll
+D:\WorkSpace\basic-calculator\basic-calculator\bin\Debug\net5.0\ref\basic-calculator.dll
+D:\WorkSpace\basic-calculator\basic-calculator\bin\Debug\net5.0\basic-calculator.pdb
+D:\WorkSpace\basic-calculator\basic-calculator\obj\Debug\net5.0\basic-calculator.csproj.AssemblyReference.cache
+D:\WorkSpace\basic-calculator\basic-calculator\obj\Debug\net5.0\basic-calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\basic-calculator\basic-calculator\obj\Debug\net5.0\basic-calculator.AssemblyInfoInputs.cache
+D:\WorkSpace\basic-calculator\basic-calculator\obj\Debug\net5.0\basic-calculator.AssemblyInfo.cs
+D:\WorkSpace\basic-calculator\basic-calculator\obj\Debug\net5.0\basic-calculator.csproj.CoreCompileInputs.cache
+D:\WorkSpace\basic-calculator\basic-calculator\obj\Debug\net5.0\basic-calculator.dll
+D:\WorkSpace\basic-calculator\basic-calculator\obj\Debug\net5.0\ref\basic-calculator.dll
+D:\WorkSpace\basic-calculator\basic-calculator\obj\Debug\net5.0\basic-calculator.pdb
+D:\WorkSpace\basic-calculator\basic-calculator\obj\Debug\net5.0\basic-calculator.genruntimeconfig.cache

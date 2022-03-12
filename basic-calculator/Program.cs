@@ -6,7 +6,11 @@ namespace basic_calculator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int Valor1, Valor2;
+
+            Console.WriteLine($"Calculadora básica \nEscolha a operação desejada:");
+
+
         }
     }
 }
