@@ -6,11 +6,24 @@ namespace basic_calculator
     {
         static void Main(string[] args)
         {
-            int Valor1, Valor2;
-
-            Console.WriteLine($"Calculadora básica \nEscolha a operação desejada:");
-
 
         }
+
+        static void Soma()
+        {
+            Console.Clear();
+
+            Console.WriteLine("Insira o primeiro valor:");
+            decimal valor1 = decimal.Parse(Console.ReadLine());
+
+            Console.WriteLine("Insira o segundo valor:");
+            decimal valor2 = decimal.Parse(Console.ReadLine());
+
+            decimal result = valor1 + valor2;
+
+            Console.WriteLine($"\nO resultado da soma é {result}");
+            Console.ReadKey();
+        }
+
     }
 }
