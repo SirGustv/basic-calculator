@@ -54,5 +54,19 @@ namespace basic_calculator
             Console.WriteLine("\nO resultado da divisão é " + (valor1 / valor2));
             Console.ReadKey();
         }
+
+        static void Multiplicacao()
+        {
+            Console.Clear();
+
+            Console.WriteLine("Insira o primeiro valor:");
+            decimal valor1 = decimal.Parse(Console.ReadLine());
+
+            Console.WriteLine("Insira o segundo valor:");
+            decimal valor2 = decimal.Parse(Console.ReadLine());
+
+            Console.WriteLine($"\nO resulta da multiplicação é {valor1 * valor2}");
+            Console.ReadKey();
+        }
     }
 }
