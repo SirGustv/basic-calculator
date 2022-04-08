@@ -4,6 +4,10 @@ Este projeto irá realizar a função de uma calculadora básica, que calcula so
 
 ### COMO USAR
 
-Para utilizar esta aplicação console, é necessário ter instalado em sua máquina a SDK do .NET 5.0 (versão LTS).
+Com `git clone`
 
-Para executar a aplicação, após ter instalado a SDK do .NET, será preciso baixar o projeto pelo GitHub e, em um terminal de sua preferência (caso não tenha nenhum instalado, o próprio Prompt de Comando servirá), localize a pasta em questão a qual está o projeto (pelo CMD) e digite o comando `dotnet run`, assim sendo possível a interação com as funções do projeto.
+> -- Verifique se já tem uma SDK do .NET instalada em sua máquina, caso não tenha este link irá te direcionar para a versão utilizada neste projeto ([5.0.405][https://dotnet.microsoft.com/en-us/download/dotnet/5.0]);
+>
+> -- Clone o repositório utilizando o comando `git clone "link do repositório(sem aspas)"` em seu terminal Git;
+>
+> -- Ao certificar-se que está tudo em ordem com a SDK do .NET e com os arquivos baixados do repositório, abra um terminal de sua referência e navegue até a pasta que contenha os arquivos do repositório e certifique que tenha o arquivo `Program.cs` e execute o seguinte comando no terminal `dotnet build` para o .NET criar os arquivos necessários para executar a aplicação e em seguida execute `dotnet run` para a aplicação ser iniciada em sua máquina.
